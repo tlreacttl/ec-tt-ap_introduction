@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React-Redux入門編のソースコード
+
+React-Redux入門編で実際にコーディングしたソースをブランチにアップ（１から７回分と８から１０回分の２つ）
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
